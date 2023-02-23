@@ -30,7 +30,7 @@ Make sure that your server can access to google.com because our project depends 
 ```bash
 git clone https://github.com/omniflix/omniflixhub
 cd omniflixhub
-git checkout v0.9.0-gon-rc5
+git checkout v0.9.0-gon-rc6
 make install
 ```
 
